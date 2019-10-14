@@ -1,2 +1,4 @@
-Martha Stewart photo stolen for educational purposes 
-from Celebrity Cutouts.
+Things to do:
+-Animate start menu
+-More sounds
+-Customize menu buttons
